@@ -8,7 +8,7 @@ This project builds a machine learning model to predict the presence of heart di
 ##  Dataset
 
 The dataset is loaded from a CSV file:  
-`D:\Project101\Heart Disease\heart.csv`
+<a href = https://github.com/EmmanuelKiriinya/Heart-Disease-ML/blob/main/Heart%20Disease%20file/heart.csv> FILE </a>
 
 It includes features such as:
 - `Age`, `Sex`
